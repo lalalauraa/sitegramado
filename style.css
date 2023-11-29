@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    font-size: 16px;
+    font-family: 'Exo 2', sans-serif;
+    background-color: #ffdfb0;
+  }
+  
+  h2 {
+    padding: 1vw;
+    text-align: center;
+    font-size: 3ch;
+  }
+  h3 {
+    padding: 1vw;
+    text-align: center;
+    font-size: 3ch;
+  }
+  
+  #descricao {
+    margin-top: 1vw;
+  }
+  
+  h1 {
+    background-color: #b49567;
+    text-align: center;
+    font-size: 6ch;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 3ch;
+  }
+  
+  nav ul li a:hover {
+    background-color: #ddd;
+  }
+  
+  div{
+    text-align: justify;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 90vw;
+    min-width: 50vw;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin: 1%;
+    font-size: 2ch;
+    text-indent: 1vw;
+    margin-top: 1VW;
+  }
+ 
+  figure{
+    display: flex;
+    justify-content: center;
+  }
+  
+  figure img{
+    width: 40vw;
+  }
+
+  #img {
+    border-radius: 4%;
+    display: flex;
+  }
+
+  #img {
+    border-radius: 4%;
+    display: flex;
+  }
+
+  #nav {
+    background-color: #ccab79;
+  }
+  
+  #mensagem {
+    height: 45px;
+    width: 300px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+  
+  #nome {
+    height: 23px;
+    width: 300px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+
+  #tel {
+    height: 23px;
+    width: 282px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+
+  #email {
+    height: 23px;
+    width: 300px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+
+  #cidade {
+    height: 23px;
+    width: 300px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+
+  #estado {
+    height: 23px;
+    width: 300px;
+    background-color: #f3c888;
+    border-radius: 5%;
+    border-color: #f3c888;
+  }
+  
+
+  #buttom {
+    height: 30px;
+    width: 55px;
+    border-radius: 12%;
+    border-color: #f3c888;
+    background-color: #f3c888;
+  }
+
+  #leg {
+    padding: 1vw;
+    text-align: center;
+    font-size: 3ch;
+  }
+
+  #form {
+    padding: 1vw;
+    text-align: center;
+    font-size: 3ch;
+  }
+
+  #descricao {
+    padding: 1vw;
+    text-align: center;
+  }
+  
